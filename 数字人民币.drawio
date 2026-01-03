@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="EJKBKVu3RXgEmrhMbJpY">
+    <mxGraphModel dx="4132" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QuXmVa3Nv4gZzjoL5YBd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="银行" vertex="1">
+          <mxGeometry height="80" width="230" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXmVa3Nv4gZzjoL5YBd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="硬件设备" vertex="1">
+          <mxGeometry height="80" width="230" x="340" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXmVa3Nv4gZzjoL5YBd-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="跨境支付" vertex="1">
+          <mxGeometry height="80" width="230" x="630" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXmVa3Nv4gZzjoL5YBd-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="硬钱包核心供应商&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;楚天龙、恒宝股份&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="340" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXmVa3Nv4gZzjoL5YBd-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="金融支付&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;拉卡拉、京北方、小商品城&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="630" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXmVa3Nv4gZzjoL5YBd-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="硬件设备 +&amp;nbsp;安全加密（量子）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;御银股份&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="340" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXmVa3Nv4gZzjoL5YBd-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="场景运营 +&amp;nbsp;支付服务&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;翠微股份&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="630" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
